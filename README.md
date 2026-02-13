@@ -43,6 +43,7 @@ The system is designed with a clear separation of responsibilities:
 5. **LLM-Based Explainability Layer**
    - Converts numerical decisions into human-readable explanations
    - Improves interpretability and auditability of the system
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/239db9ad-795b-4673-80dc-be5f012ccc02" />
 
 ---
 
