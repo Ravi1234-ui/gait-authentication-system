@@ -1,0 +1,4 @@
+data/uci/
+data/raw/
+*.pkl
+__pycache__/
